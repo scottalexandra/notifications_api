@@ -4,6 +4,6 @@ class NotificationsSerializer
   attributes :content
 
   attribute :formatted_time do |object|
-    object.created_at.strftime("%c")
+    object.created_at.strftime("%a $b %e")
   end
 end
