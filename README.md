@@ -20,7 +20,7 @@
 `rails s -p 5000`
 
 ### Database Schema
-![Screen Shot 2022-05-25 at 4 47 10 PM](https://user-images.githubusercontent.com/8812335/170381985-dd46ed86-2f77-4e5b-b29f-7d26992d488f.png)
+![Screen Shot 2022-05-25 at 4 49 01 PM](https://user-images.githubusercontent.com/8812335/170382112-ba20f4a3-cefa-4125-a553-4de04b493223.png)
 
 ### Endpoints
 Notifications
