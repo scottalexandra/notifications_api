@@ -23,7 +23,7 @@
 Notifications
 
 #### Request
-GET /api/v1/notifications
+GET /api/v1/user/notifications
 
 #### Response
 
